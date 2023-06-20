@@ -1,0 +1,111 @@
+.topnav {
+    background-color: hsl(0, 0%, 100%);
+    overflow: hidden;
+    padding-left: 7%;
+    align-items: center;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: center;
+    color: #ff0000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+    
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #ff0000;
+    color: white;
+  }
+.body{
+    background-image: url(https://media.istockphoto.com/id/1196798707/video/fresh-pink-sakura-leaves-falling-isolated-background.jpg?s=640x640&k=20&c=YVSmmvvDVVxJy7ggDZTbw_NNZuRd5oitxxlh4gds5s0=)
+}
+#slider{
+    width: 600px;
+    height: 400px;
+}
+#AboutUs{
+    top: 25px;
+    margin-left: 625px;
+    right: 200px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    color: #ff0000;
+}
+.Ntext{
+margin-left: 20px;
+font-family: 'Roboto Slab', serif;
+font-size: 25px;
+color: red;
+}
+#aboutus{
+    margin-left: 20px;
+}
+.Header{
+  color: #ff0000;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+
+    
+#name{
+  border: #ff0000;
+}
+button {
+  border: none;
+  cursor: pointer;
+  appearance: none;
+  background-color: inherit;
+}
+
+
+button {
+  transition: transform 0.7s ease-in-out;
+}
+
+button:hover {
+  transform: rotate(360deg);
+}
+
+img {
+  width: 70px;
+  height: 70px;
+}
+
+input {
+  text-align: center;
+  padding: 10px;
+  border: 2px solid #ff0000;
+  outline: none;
+  border-radius: 5px;
+  font-size: 24px;
+  color: #ff0000;
+  margin-left: 50px;
+}
+
+.text {
+  font-size: 60px;
+  color: #ff0000;
+  font-family: Arial;
+}
+#form{
+  margin-top: 100px;
+}
+.Ttext {
+  font-size: 20px;
+  color: #ff0000;
+  font-family: Arial;
+}

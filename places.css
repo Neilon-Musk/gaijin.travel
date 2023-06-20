@@ -1,0 +1,60 @@
+.Header{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+  }
+  .ptext {
+    font-size: 30px;
+    color: palevioletred;
+    font-family: Arial;
+    
+  }
+  .topnav {
+    background-color: hsl(0, 0%, 100%);
+    overflow: hidden;
+    padding-left: 7%;
+    align-items: center;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: center;
+    color: #ff0000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+    
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #ff0000;
+    color: white;
+  }
+.body{
+    background-image: url(https://media.istockphoto.com/id/1196798707/video/fresh-pink-sakura-leaves-falling-isolated-background.jpg?s=640x640&k=20&c=YVSmmvvDVVxJy7ggDZTbw_NNZuRd5oitxxlh4gds5s0=)
+}
+.PHeader{
+    color: red;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Roboto Slab', serif;
+}
+  #slider{
+    width: 100%;
+    height: 200px;
+}
+.img{
+    width:  650px;
+    height: 400px
+}
